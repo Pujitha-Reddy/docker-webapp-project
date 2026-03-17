@@ -1,4 +1,4 @@
-# Project 1 — Dockerized Web App Deployed to AWS EC2
+# Dockerized Web App Deployed to AWS EC2
 
 ## Overview
 A simple Node.js web application containerized with Docker and deployed to a live AWS EC2 server. This is Project 1 of my Cloud DevOps Engineer learning journey.
@@ -82,7 +82,4 @@ Image available at: https://hub.docker.com/r/pujitha2366/my-webapp
 - How to install and run Docker on a Linux server
 - Deploying a containerized app to the cloud
 
-## Next Project
-**Project 2 — CI/CD Pipeline with GitHub Actions**
-Automating the entire build → push → deploy process using GitHub Actions.
 
