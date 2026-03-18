@@ -41,7 +41,7 @@ Located at: `.github/workflows/deploy.yml`
 | EC2_SSH_KEY | EC2 private key for SSH |
 
 ## Pipeline History
-4 successful deployments — all green checkmarks!
+4 successful deployments!
 
 ## What I Learned
 - How to write GitHub Actions workflow YAML files
@@ -52,5 +52,3 @@ Located at: `.github/workflows/deploy.yml`
 - How to debug failed pipeline runs in Actions tab
 - Difference between ARM and AMD64 Docker images
 
-## Next Project
-**Project 3 — Infrastructure as Code with Terraform**
