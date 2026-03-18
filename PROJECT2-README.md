@@ -1,7 +1,7 @@
-# Project 2 — CI/CD Pipeline with GitHub Actions
+# Project — CI/CD Pipeline with GitHub Actions
 
 ## Overview
-Automated the entire build and deploy process from Project 1 using 
+Automated the entire build and deploy process from Project (Dockerized Web App Deployed to AWS EC2) using 
 GitHub Actions. Every push to main branch automatically builds, pushes, 
 and deploys the app to AWS EC2 — no manual steps needed.
 
