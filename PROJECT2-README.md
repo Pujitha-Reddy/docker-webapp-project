@@ -1,4 +1,4 @@
-# Project — CI/CD Pipeline with GitHub Actions
+# CI/CD Pipeline with GitHub Actions
 
 ## Overview
 Automated the entire build and deploy process from Project (Dockerized Web App Deployed to AWS EC2) using 
